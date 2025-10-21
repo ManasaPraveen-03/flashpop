@@ -1,0 +1,34 @@
+{
+  "sruthi": {
+    "username": "sruthi",
+    "password": "12345",
+    "name": "sruthi",
+    "notes": [],
+    "flashcards": [],
+    "knownCount": 0
+  },
+  "demo": {
+    "username": "demo",
+    "password": "demo123",
+    "name": "Demo User",
+    "notes": [],
+    "flashcards": [],
+    "knownCount": 0
+  },
+  "manasa": {
+    "username": "manasa",
+    "password": "manasa2007",
+    "name": "manasa",
+    "notes": [],
+    "flashcards": [],
+    "knownCount": 0
+  },
+  "harshvikha": {
+    "username": "harshvikha",
+    "password": "smthg",
+    "name": "harshvikha",
+    "notes": [],
+    "flashcards": [],
+    "knownCount": 0
+  }
+}
